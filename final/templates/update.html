@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="../static/css/style.css">
+        <title>update</title>
+    </head>
+    <body>
+        <div class="banner-section">
+            <img src="../static/images/banner.jpg">
+        </div>
+        <div>
+            <a href="/admission"><button>GO BACK</button></a>
+        </div>
+        <div class="update">
+            <h1>{{context}}</h1>
+            <h1>update details</h1>
+            <form action="/update-form" method="post">
+                <input type="'number" name="id" placeholder="ID ">
+                <select name="field">
+                    <option name="name">Name</option>
+                    <option name="email">EMAIL</option>
+                    <option name="phone">PHONE</option>
+                    <option name="percentage">PERCENTAGE</option>
+                    <option name="Rank">EAMCET RANK </option>
+                    <option name="Course">COURSE INTERESTED</option>
+                    <option name="Address">ADDRESS</option>
+                </select>
+                <input type="text" name="new_value" placeholder="NEW DATA">
+                <input type="submit" value="UPDATE">
+            </form>
+        </div>
+    </body>
+</html>
+

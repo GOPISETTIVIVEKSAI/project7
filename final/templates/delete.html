@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="../static/css/style.css">
+        <title>delete</title>
+    </head>
+    <body>
+        <div class="banner-section">
+            <img src="../static/images/banner.jpg">
+        </div>
+        <div>
+            <a href="/admission"><button>GO BACK</button></a>
+        </div>
+        <form action='/delete-form' method="post">
+            <div class="delete">
+                <h1>{{context}}</h1>
+                <h1>Delete Details</h1>
+                <input type="text" name="id" placeholder="Enter id ">
+                <input type="submit" value="submit">
+            </div>
+        </form>
+    </body>
+</html>
+

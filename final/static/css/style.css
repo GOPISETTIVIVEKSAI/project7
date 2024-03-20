@@ -1,0 +1,197 @@
+.banner-section{
+    float:left;
+    width:100%;
+}
+.banner-section img{
+    width:100%;
+}
+.sub-gallery{
+    float:left;
+    width:100%;
+}
+.sub-hero-section-1{
+    float:left;
+    width:50%;
+
+}
+.sub-hero-section-1 img{
+    float:left;
+    width:80%;
+}
+.sub-hero-section-2{
+    float:right;
+    width:50%;
+    text-align: center;
+}
+.sub-hero-section-2 img{
+    width:100%;
+   
+}
+.sub-hero-section-2 h1{
+    font-family: "Rubik Doodle Shadow", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    width:100%;
+}
+.gallery{
+    float:left;
+    width:100%;
+    text-align: center;
+    background-color: aqua;
+    
+}
+.sub-gallery{
+    float:left;
+    width:100%;
+    text-align: center;
+    margin:10% 0% 0% 0%;
+}
+.sub-gallery h1{
+    font-family: "Rubik Doodle Shadow", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+.sub-gallery-pics img{
+    float:left;
+    width:19.9%;
+    margin:0% 0% 0% 0.1%;
+}
+#play{
+    width:17.5%;
+}
+.volunteer-section{
+    float:left;
+    width:100%;
+    margin:5% 0% 0% 0%;
+}
+.sub-volunteer-section-1 img{
+    float:left;
+    width: 20%;
+    margin:0% 0% 0% 20%;
+    font-size: 25px;
+}
+.sub-volunteer-section-2 {
+    float:right;
+    width:30%;
+    margin:0% 20% 0% 0%;
+    font-size: 25px;
+}
+.sub-volunteer-section-2 h1{
+    font-family : "Rubik Doodle Shadow", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+}
+.sec{
+    float:right;
+    font-size: 20px;
+}
+.footer-section{
+    float:left;
+    width:100%;
+    background-color:rgb(55,54,54);
+    margin:5% 0% 0% 0%;
+    padding-left: 10%;
+    padding:0% 0% 5% 0%;
+    text-align: center;
+}
+.sub-footer-section-1{
+    float:left;
+    width:16%;
+    margin:2% 0% 0% 5%;
+    color:aliceblue;
+    border:solid 2px white;
+    text-align: center;
+}
+.sub-footer-section-2{
+    float:left;
+    width:15%;
+    font-size: 20px;
+    margin:2% 0% 0% 4%;
+    padding:0% 0% 0.5% 0.5%;
+    border:solid 2px white;
+    
+}
+.sub-footer-section-3{
+    float:left;
+    width:16%;
+    margin:2% 0% 0% 5%;
+    color:aliceblue;
+    border:solid 2px white;
+    text-align: center;
+}
+.copyright{
+    float:left;
+    width:100%;
+    text-align:center;
+    background-color: rgb(109, 83, 133);
+}
+.button{
+    float:left;
+    width:50%;
+    background-color: orange;
+    margin:0% 10% 0% 10%;
+    padding:2% 0% 2% 0%;
+    text-align: center;
+}
+.topbutton{
+    float:left;
+    width: 100%;
+}
+.bottombuttom{
+    float:left;
+    width: 100%;
+}
+.Register{
+    width:50%;
+    background-color: orange;
+    text-align: center;
+    margin:0% 0% 0% 5%;
+    padding:2% 5% 3% 3%;
+}
+.Register input{
+    width:100%;
+    text-align: center;
+    margin:0% 10% 1% 0%;
+    padding:0.5% 0.5% 0.5% 0%;
+}
+.view{
+    float:left;
+    width:50%;
+    background-color: orange;
+    text-align: center;
+    margin:0% 10% 0% 10%;
+    padding:0% 0% 3% 0%;
+}
+.view input{
+    width:100%;
+    text-align: center;
+    margin:3% 0% 0% 0%;
+    padding:0.5% 0.5% 0.5%;
+}
+.update{
+    float:left;
+    width:50%;
+    background-color: orange;
+    text-align: center;
+    margin:0% 0% 0% 10%;
+    padding:2% 3% 3% 3%;
+}
+.update input{
+    width:100%;
+    text-align: center;
+    margin:2% 0% 0% 0%;
+    padding:0.5% 0.5% 0.5%;
+} 
+.delete{
+    float:float;
+    width:40%;
+    background-color: orange;
+    text-align: center;
+    margin:0% 0% 0% 10%;
+    padding:1% 0% 3% 0%;
+}
+.delete input{
+    margin:2% 0% 0% 0%;
+    padding:0.5% 0.5% 0.5% 0%;
+}
